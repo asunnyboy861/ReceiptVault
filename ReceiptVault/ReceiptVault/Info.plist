@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>ReceiptVault needs camera access to scan receipts and extract information automatically.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>ReceiptVault needs photo library access to import receipt images from your gallery.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>ReceiptVault uses Face ID to protect your receipts with biometric authentication.</string>
+</dict>
+</plist>
